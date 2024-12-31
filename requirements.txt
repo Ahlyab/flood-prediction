@@ -1,7 +1,9 @@
 fastapi
 uvicorn
 pydantic
-fastapi
-pandas 
-scikit-learn 
 joblib
+scikit-learn 
+pandas
+openmeteo-requests
+requests-cache
+retry-requests
